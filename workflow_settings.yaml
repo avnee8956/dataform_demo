@@ -1,0 +1,5 @@
+defaultProject: practice-437518
+defaultLocation: asia-south2
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
